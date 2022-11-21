@@ -67,8 +67,9 @@ Weight: 33 kg.
 Installation position: floor, ceiling, walls.
 
 
+![exp 8 0](https://user-images.githubusercontent.com/113031702/203064109-ac2b1a7b-8227-4b85-8dab-174a67c58c9c.png)
 
-![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
+
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
 
@@ -99,6 +100,9 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+### program
+
+
 
 
 
