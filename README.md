@@ -102,6 +102,12 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+
+
+Name : THIRUMURUGAN
+
+
+Reg.No: 212221040171
 ### program : 
 
 
